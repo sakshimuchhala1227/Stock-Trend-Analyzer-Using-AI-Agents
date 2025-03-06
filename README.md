@@ -1,5 +1,5 @@
 ### Sakshi Muchhala
-### mail-sakshimuchhala@gmail.com
+### sakshimuchhala@gmail.com
 
 # Stock Trend Analyzer Using Agents
 
